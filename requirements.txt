@@ -8,3 +8,4 @@ shap
 python-multipart
 openai
 pydantic
+requests
